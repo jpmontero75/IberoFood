@@ -1,0 +1,11 @@
+# Xcode y macOS
+DerivedData/
+build/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace
+*.xcuserdata
+*.xcuserstate
+
+# Archivos de Firebase
+GoogleService-Info.plist
+
